@@ -14,7 +14,7 @@ Left click on any item to see its recipe and Right click to see what other recip
       - Create: Enchantment Industry adds new ways of obtaining enchanted books. The most notable feature of this mod is duplicating enchanted books with the Printer item. This mod also allows you to store exp in tanks.
 
       - Create: Ore Excavation
-Adds ore veins to the game which can be drilled infinetly with up to 4 drilling machines in each vein chunk. These drilling machines take a ton of stress units and are difficult to set up. Check out the gold farm as a guide. 
+Adds ore veins to the game which can be drilled infinetly with up to 4 drilling machines in each vein chunk. These drilling machines take a ton of stress units and are difficult to set up. Check out the gold farm as a guide. To find a vein use the ore vein finder.
 
       - Create: Diesel Generators adds a new way to make power by pumping out oil and refining it to make fuels to be used in different types of engines.
 
