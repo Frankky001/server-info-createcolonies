@@ -1,2 +1,28 @@
-change log test = false
+1/11 - V2
 
+- Removed BetterEnd replaced by OuterEnd and Nullscape \\ Better End was causing performance issues
+
+- Removed Surveyor mod \\ Performance Issues
+
+- Removed Create: Power Loader replaced by Open Parties and Claims for both chunk loading and claim chunks \\ See "Mod Info" for how to use
+
+- Removed Burnt Mod \\ Wasnt being used (Could be added back if desired)
+
+- Added Villager Recruits \\ Allows you to command villager armies
+
+- Added Valkyrien Skies and most of its addons \\ See "Mod Info" for more also will be replaced by Create: Aeronautics (hopefully within our lifetime)
+      -Added Eureka \\ Allows you to create boats and airships in a simple but slow way
+      -Added Clockwork \\ Allows you to create aircraft and use its blocks for other valkyrien 
+      -Added Clockwrok Additions \\ Adds handle bar and pedals for ease of use when controlling your machines
+      -Added VS Pirates \\ Ships that sale on the water in circles that fire at your ship with cannons
+      -Added Interactive \\ Allows you to trun create contraptions (trains, spinny things, etc.) into physics objects that you can interact with as if they were regular minecraft blocks
+      -Added Vs Additions \\ Just improves all the above with more compatability between the physics objects and the real world
+      -Added VMod \\ Fixes a bug
+
+- Added FindMe \\ Allows you to search for items in nearby chests (See "Keybinds/ QOL)
+
+- Added CLean Wing Through Grass \\ Allows you to use sword through grass (should be in regular minecraft honestly)
+
+- Added multiple client side mods adding to immersion and satisfaction of the game (i forgot what i added tbh)
+
+- Updated all mods to the most recent version as of 1/10
