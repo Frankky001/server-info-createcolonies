@@ -40,14 +40,19 @@ Adds ore veins to the game which can be drilled infinetly with up to 4 drilling 
    
       - Trackwork adds wheels and tank tracks with suspension. Ponder the wheel and tracks.
 
+- **Minecolonies** this is the second major mod besides Create. THis mod is similar to Lego Fortnite and COC. This mod allows you to create entire colonies with the help of slaves or colonists however you see them. You can tell them to make buildings and then you supply the materials. They can have many jobs to gather resources and process them. To get started place a Supply camp or just a town hall with a builders tool. Find the townhall and builders tool in one of the storage blocks in the camp and place the townhall building (Under fundamentals). Somebody should spawn at ur townhall block and give you a tutorial. A tip for this mod is to place your buildings according to how big they look at level 5 as you will upgrade them.
+
+- Open PAC adds a way to claim chunks so people dont steal. To claim a chunk open the map and right click the chunk/chunks you want to claim. You can hold right click as well to select multiple. You can also forceload (chunk loader) chunks the same way. Limit is currently 10 chunks.
+
+- Computer Craft. This is the last important mod and I have no idea how to use it. It has insane potential for controlling cool machines using create or valkyrien skies but you have to know how to code in Lua. I doubt anyone will ever use this but if yk how to code then shit ur god basically. 
+
 - Alex's Mobs and Alex's Caves. I know very little about these mods but AMobs adds Mobs and some bosses. Alex Caves is the only one that adds good gear i believe. Start with the Animal Dictionary for AMobs. To start ACaves get a few cave tablets (no idea how) a copendium, and a spellunkery table.
 
 - L'Enders Cataclysm adds bosses and gear. Also no idea how to get started here. Probably craft some eyes to find bosses. search for @cataclysm in JEI
 
-- **Minecolonies** this is the second major mod besides Create. THis mod is similar to Lego Fortnite and COC. This mod allows you to create entire colonies with the help of slaves or colonists however you see them. You can tell them to make buildings and then you supply the materials. They can have many jobs to gather resources and process them. To get started place a Supply camp or just a town hall with a builders tool. Find the townhall and builders tool in one of the storage blocks in the camp and place the townhall building (Under fundamentals). Somebody should spawn at ur townhall block and give you a tutorial. A tip for this mod is to place your buildings according to how big they look at level 5 as you will upgrade them.
+- Etched allows you to play any mp3 file you want. The best way to do this is record a mp3 file using audacity or download one (dont get a virus) and then past it into discord. You need a direct download link and discord is easiest to do that (i think). Then copy the link (not message link) and paste it in a radio or etching table with a blank music disc and music label to create a custom music disc. 
 
-- Computer Craft. This is the last important mod and I have no idea how to use it. It has insane potential for making cool machines using create or valkyrien skies but you have to know how to code in Lua. I doubt anyone will ever use this but if yk how to code then shit ur god basically. 
-
+- Immersive melodies adds instruments to play many different songs. You can give certain mobs a instrument or other palyers and it will sync with one another.
     
 
 
