@@ -1,4 +1,4 @@
-eV2.1    ---- To add mods go to the curseforge app minecraft>"this profile">Add More Content ----- To Remove Mods use the Search in this profile and either disable them by switching the slider off or just trash them. (Scroll VVV )
+V2.1    ---- To add mods go to the curseforge app minecraft>"this profile">Add More Content ----- To Remove Mods use the Search in this profile and either disable them by switching the slider off or just trash them. (Scroll VVV )
 
 - Add Curious Lanterns
 - Add Corpse x Curios API Compat
