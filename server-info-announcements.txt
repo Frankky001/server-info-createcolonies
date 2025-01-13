@@ -2,5 +2,5 @@ V2.1    ---- Add mods with the Add More Content button in the curseforge profile
 
 - Add Curious Lanterns
 - Add Corpse x Curios API Compat
-- Disable Petrolpark library
+- Disable Petrolpark library (will be renabled once bug is fixed. dont delete)
 
