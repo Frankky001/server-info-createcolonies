@@ -1,7 +1,1 @@
 
-- Disable Petrolpark library (will be renabled once bug is fixed. dont delete)
-- Remove Sinytra Connector and Forgified Fabric API
-
-- [OPTIONAL] Add Curious Lanterns
-- [OPTIONAL] Add Corpse x Curios API Compat
-
