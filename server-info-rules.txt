@@ -1,1 +1,4 @@
-rules test = false
+
+1. No Xray or cheat clients. Fullbright is also discouraged. Put a lantern in the Curios slot isntead.
+2. No excessive griefing – keep it fun!
+
