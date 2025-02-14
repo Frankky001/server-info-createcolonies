@@ -1,9 +1,11 @@
 Some tips and keybinds if youre too lazy to check the controls
 
-Lclick in JEI to see recipe of any item
-Rclick in JEI to see whate recipes the item is used in
+EMI is the thing on the right of ur inventory with all the different items
+Lclick in EMI to see recipe of any item
+Rclick in EMI to see whate recipes the item is used in
+Searching @"what ever mod name" shows you all items from a certain mod. Example @create shows all create mod items.
 
-Hold W on Create items to see what they do
+Hold W on Create mod items to see a hologram on what they do if you're new to the mod. 
 
 To pick up mobs Shift Rclick with empty main and off hand. You can also pick up chests to move them
 
@@ -20,10 +22,10 @@ Jetpack
 G for engine
 I for hover
 
-Press Y when hovering over any item in JEI to search for the item in nearby chests
+Press Y when hovering over any item in EMI to search for the item in nearby chests
 
 If you put a spyglass into the curios item slot (Thing at left top of armor in inventory), you can zoom with C.
 You can also put a lantern in the belt slot to carry around a light.
 
-Special abilities from alex cave weapons and cataclysm are unbound so bind those if youre using them.
+Special abilities from alex caves and cataclysm are unbound so bind those if you're using them.
 
