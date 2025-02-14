@@ -1,9 +1,5 @@
 Some tips and keybinds if youre too lazy to check the controls
 
-If you want high render distance enable distance horizons rendering. It has its one menu button next to options. This should only tank ur fps by 20 or so
-
-If you want shaders enable the oculus mod in the curseforge profile. (make sure content management is on otherwise you cant do this)
-
 Lclick in JEI to see recipe of any item
 Rclick in JEI to see whate recipes the item is used in
 
@@ -16,11 +12,9 @@ H to open missions to get money
 M to open map
 
 Voice Chat
-N to enable/disable
-RAlt to mute
-X for push to talk
-K for menu
-J for groups
+V for push to talk
+N for settings and call groups
+If your mic sounds shit try noise supression or change your default selected microphone
 
 Jetpack
 G for engine
@@ -32,9 +26,4 @@ If you put a spyglass into the curios item slot (Thing at left top of armor in i
 You can also put a lantern in the belt slot to carry around a light.
 
 Special abilities from alex cave weapons and cataclysm are unbound so bind those if youre using them.
-
-Petrol's Parts mod adds a double cardon shaft which is a better looking alternative to gearboxes when turning shafts. 
-
-Dont go in third paeron when on physics contraption or create contraption it will be buggy.
-
 
